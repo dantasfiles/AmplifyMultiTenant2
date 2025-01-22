@@ -2,4 +2,4 @@ This is **Method 2: Cognito Groups** for creating multi-tenant AWS Amplify mobil
 
 See the associated post for instructions and documentation
 
-https://medium.com/@dantasfiles/multi-tenant-aws-amplify-cc3252c4def4
+https://dantasfiles.substack.com/p/multi-tenant-aws-amplify-cc3252c4def4
